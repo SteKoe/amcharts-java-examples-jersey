@@ -1,0 +1,5 @@
+de\stekoe\amcharts\examples\jersey\Application.class
+de\stekoe\amcharts\examples\jersey\rest\RestResource$CountryVisits.class
+de\stekoe\amcharts\examples\jersey\config\JerseyObjectMapperProvider.class
+de\stekoe\amcharts\examples\jersey\rest\RestResource.class
+de\stekoe\amcharts\examples\jersey\config\JerseyInitialization.class
